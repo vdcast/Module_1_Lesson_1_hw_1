@@ -1,9 +1,9 @@
 # Module_1_Lesson_1_hw_1
-Lesson's topic:
+**Lesson's topic:**
 
 Android Studio. Java Basics. Types data, methods.
 
-Technical task:
+**Technical task:**
 
 A real programmer must do 3 things: make a bug, screw on a crutch and write
 "Hello, World" program.
