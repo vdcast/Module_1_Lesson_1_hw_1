@@ -3,7 +3,7 @@
 
 Android Studio. Java Basics. Types data, methods.
 
-**Technical task:**
+**Task:**
 
 A real programmer must do 3 things: make a bug, screw on a crutch and write
 "Hello, World" program.
